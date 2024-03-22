@@ -18,7 +18,7 @@ const VisaCard = () => {
   return (
     <div className="bg-gradient-to-r from-purple-400 to-pink-600 p-8 rounded-md max-w-md mx-auto">
       <div className="text-3xl font-bold mb-7 text-white">Visa Card</div>
-      <div className="bg-white p-7 rounded-md mb-8">
+      <div className="bg-white p-7 rounded-md mb-7">
         <div className="text-gray-600 mb-2">Card Number</div>
         <input
           type="text"
